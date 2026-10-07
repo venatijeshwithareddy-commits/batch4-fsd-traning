@@ -1,0 +1,10 @@
+import {useState} from "react";
+
+function LikesDislikes(){
+    const[likes,setlikes]=useState(0);
+    const[disklikes,setdislikes]=useState(0);
+   return(
+    <div>
+         
+    )
+}
